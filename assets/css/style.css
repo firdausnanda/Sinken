@@ -773,15 +773,16 @@ h6 {
   top: 20%;
   left: 45%;
   transform: translate(-50%, -50%);
-  color: #fff;
   text-align: center;
 }
 
 .text-overlay-2 {
   position: absolute;
-  top: 65%;
+  top: 30%;
   left: 45%;
-  transform: translate(-50%, -50%);
-  color: #fff;
+  /* transform: translate(-50%, -50%); */
+  /* color: #fff; */
   text-align: center;
+  font-style: italic;
+  width: 50%;
 }
